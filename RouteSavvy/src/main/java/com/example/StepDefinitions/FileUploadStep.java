@@ -87,6 +87,15 @@ public class FileUploadStep {
 		upload.clickOnNextButton();
 
 	}
+	
+	
+	
+	@Then("^User click on popup next button$")
+	public void User_click_on_popup_next_button() throws Throwable {
+
+		upload.clickOnnextButton();
+
+	}
 
 	@Then("^verify that added location display on route listing screen$")
 	public void verify_that_added_location_display_on_route_listing_screen() throws Throwable {
@@ -99,6 +108,7 @@ public class FileUploadStep {
 	public void User_click_on_Map_section() throws Throwable {
 
 		upload.clickOnMapSection();
+		upload.clickInRoutePlannerSection();
 
 	}
 

@@ -17805,3 +17805,1001 @@ Customer080
 2023-11-23 10:27:03.535  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :75 - STEP:Upload InvalidCsv file successfully UploadFile
 2023-11-23 10:27:03.773  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :81 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
 2023-11-23 10:27:06.081  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-24 16:18:52.634  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-24 16:18:52.748  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-24 16:18:53.238  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-24 16:18:59.099  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-24 16:18:59.178  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-24 16:19:04.711  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-24 16:19:04.842  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-24 16:19:05.360  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-24 16:19:06.583  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-24 16:19:06.685  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :45 - STEP:verify invalid token messageInvalidTokenMessage
+2023-11-24 16:19:13.011  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-24 16:19:13.098  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-24 16:19:13.487  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-24 16:19:19.129  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-24 16:19:19.209  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-24 16:19:30.066  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-24 16:19:30.417  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-24 16:19:36.746  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-24 16:19:37.612  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :106 - STEP:Successfully click On Map sectionMapSection
+2023-11-24 16:19:50.996  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-24 16:19:51.081  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-24 16:19:51.479  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-24 16:19:55.933  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-24 16:19:56.017  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-24 16:20:06.572  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :67 - STEP:Upload InvalidCsv file successfully UploadFile
+2023-11-24 16:20:06.790  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-24 16:20:09.104  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :78 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-24 17:42:28.320  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-24 17:42:28.454  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-24 17:42:28.964  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-24 17:42:34.657  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-24 17:42:34.859  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-24 17:42:45.672  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-24 17:42:46.021  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-24 17:42:52.490  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-24 17:42:53.421  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :106 - STEP:Successfully click On Map sectionMapSection
+2023-11-24 18:04:38.218  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-24 18:04:38.583  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-24 18:04:39.056  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-24 18:04:44.692  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-24 18:04:45.012  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-24 18:04:56.644  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-24 18:04:57.066  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-24 18:06:18.906  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-24 18:06:19.025  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-24 18:06:19.542  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-24 18:06:27.302  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-24 18:06:27.405  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-24 18:06:38.145  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-24 18:06:38.353  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-24 18:06:50.055  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-24 18:06:50.975  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :106 - STEP:Successfully click On Map sectionMapSection
+2023-11-24 18:07:27.607  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-24 18:07:27.753  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-24 18:07:28.242  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-24 18:07:33.660  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-24 18:07:33.854  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-24 18:07:44.682  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-24 18:07:45.044  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-24 18:07:51.106  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-24 18:07:52.096  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :106 - STEP:Successfully click On Map sectionMapSection
+2023-11-24 18:37:58.207  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-24 18:37:58.329  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-24 18:37:58.788  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-24 18:38:04.443  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-24 18:38:04.572  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-24 18:38:15.341  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-24 18:38:15.824  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-24 18:38:22.299  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-24 18:38:23.238  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :106 - STEP:Successfully click On Map sectionMapSection
+2023-11-27 12:13:44.837  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 12:13:44.975  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 12:13:45.527  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 12:13:51.694  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 12:13:51.777  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 12:14:02.661  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 12:14:02.966  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 12:14:09.946  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 12:14:10.905  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :106 - STEP:Successfully click On Map sectionMapSection
+2023-11-27 12:23:29.971  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 12:23:30.113  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 12:23:30.620  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 12:23:35.169  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 12:23:35.299  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 12:23:46.150  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 12:23:46.381  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 12:23:53.250  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 12:40:35.543  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 12:40:35.710  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 12:40:36.176  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 12:40:40.715  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 12:40:40.867  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 12:40:51.685  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 12:40:51.914  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 12:40:58.466  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 12:45:03.162  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 12:45:03.298  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 12:45:03.752  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 12:45:09.599  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 12:45:09.680  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 12:45:20.493  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 12:45:20.836  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 12:45:26.771  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 12:59:38.715  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 12:59:38.856  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 12:59:39.337  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 12:59:44.836  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 12:59:45.016  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 12:59:56.165  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 12:59:56.542  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 13:17:03.828  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 13:17:03.970  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 13:17:04.451  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 13:17:09.766  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 13:17:09.895  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 13:17:20.797  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 13:17:21.178  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 13:17:29.714  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 13:17:54.517  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-27 13:24:34.133  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 13:24:34.310  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 13:24:34.771  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 13:24:40.377  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 13:24:40.463  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 13:24:51.252  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 13:24:51.533  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 13:24:58.351  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 14:30:45.174  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 14:30:45.320  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 14:30:45.820  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 14:30:51.642  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 14:30:51.775  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 14:31:02.599  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 14:31:02.937  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 14:31:09.366  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 14:43:49.628  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-27 15:35:20.929  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 15:35:21.065  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 15:35:21.523  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 15:35:26.968  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 15:35:27.083  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 15:35:37.971  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 15:35:38.299  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 15:35:44.678  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 15:40:17.240  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 15:40:17.392  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 15:40:17.923  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 15:40:23.710  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 15:40:23.797  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 15:40:34.768  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 15:40:35.147  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 15:40:41.577  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 15:50:40.772  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 15:50:40.892  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 15:50:41.408  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 15:50:46.665  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 15:50:46.776  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 15:50:57.485  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 15:50:57.717  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 15:51:04.105  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 15:56:39.715  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-27 15:57:50.687  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 15:57:50.834  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 15:57:51.309  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 15:57:56.859  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 15:57:56.985  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 15:58:07.703  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 15:58:07.943  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 15:58:14.240  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 16:12:16.137  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 16:12:16.260  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 16:12:16.759  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 16:12:21.816  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 16:12:21.897  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 16:12:32.578  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 16:12:32.821  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 16:12:39.719  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 16:12:42.667  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-27 16:13:21.073  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 16:13:21.201  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 16:13:21.684  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 16:13:27.391  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 16:13:27.470  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 16:13:38.315  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 16:13:38.633  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 16:13:44.583  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 16:16:47.071  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-27 16:18:30.183  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 16:18:30.308  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 16:18:30.782  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 16:18:36.130  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 16:18:36.249  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 16:18:47.153  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 16:18:47.487  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 16:18:53.415  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 16:20:44.200  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 16:20:44.324  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 16:20:44.800  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 16:20:51.025  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 16:20:51.177  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 16:21:02.152  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 16:21:02.455  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 16:21:08.373  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 16:33:50.614  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 16:33:50.742  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 16:33:51.217  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 16:33:56.862  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 16:33:57.000  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 16:34:07.859  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 16:34:08.173  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 16:34:19.709  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 16:43:16.265  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-27 16:45:41.886  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 16:45:42.005  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 16:45:42.505  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 16:46:08.866  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 16:46:08.945  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 16:46:19.752  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 16:46:20.116  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 17:02:36.203  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 17:02:36.375  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 17:02:36.886  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 17:02:41.934  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 17:02:42.066  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 17:02:52.801  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 17:02:53.049  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 17:02:59.429  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 17:16:38.404  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 17:16:38.560  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 17:16:39.102  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 17:16:44.703  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 17:16:44.843  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 17:16:55.894  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 17:16:56.722  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 17:17:03.323  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 17:27:06.758  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 17:27:06.891  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 17:27:07.372  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 17:27:13.135  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 17:27:13.257  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 17:27:24.108  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 17:27:24.451  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 17:27:30.958  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 17:30:40.704  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-27 17:31:42.943  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 17:31:43.062  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 17:31:43.595  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 17:31:48.843  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 17:31:48.991  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 17:31:59.856  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 17:32:00.169  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 17:32:06.125  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 17:35:08.663  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-27 17:40:26.395  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 17:40:26.527  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 17:40:27.017  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 17:40:32.839  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 17:40:32.973  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 17:40:43.830  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 17:40:44.169  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 17:40:50.218  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 18:31:53.591  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 18:31:53.720  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 18:31:54.196  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 18:31:59.376  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 18:31:59.480  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 18:32:10.207  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 18:32:10.487  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 18:32:17.437  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 18:34:07.398  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-27 18:34:07.566  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-27 18:34:08.099  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-27 18:34:13.108  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-27 18:34:13.186  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-27 18:34:23.894  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-27 18:34:24.112  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-27 18:34:30.504  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-27 18:34:33.508  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 10:56:30.207  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 10:56:30.594  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 10:56:31.290  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 10:56:37.910  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 10:56:38.023  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 10:56:49.004  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 10:56:49.416  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 10:57:50.452  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 10:57:50.587  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 10:57:51.048  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 10:57:56.711  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 10:57:56.913  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 10:58:07.738  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 10:58:08.144  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 10:58:48.510  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 10:58:48.661  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 10:58:49.171  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 10:58:55.476  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 10:58:55.558  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 10:59:06.424  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 10:59:06.755  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 10:59:13.230  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 11:06:56.273  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 11:06:56.456  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 11:06:56.926  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 11:07:07.192  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 11:07:07.306  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 11:07:18.090  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 11:07:18.424  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 11:07:24.973  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 11:11:56.288  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 11:11:56.416  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 11:11:56.922  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 11:12:36.168  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 11:12:36.284  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 11:12:47.139  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 11:12:47.513  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 11:12:55.617  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 11:14:55.744  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 11:14:55.879  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 11:14:56.331  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 11:15:02.065  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 11:15:02.181  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 11:15:13.016  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 11:15:13.342  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 11:15:19.213  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 11:34:21.038  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 11:34:21.190  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 11:34:21.664  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 11:34:27.464  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 11:34:27.592  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 11:34:38.484  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 11:34:38.819  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 11:34:45.179  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 11:35:10.985  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:37:02.602  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 11:37:02.732  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 11:37:03.218  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 11:37:09.155  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 11:37:09.232  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 11:37:20.097  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 11:37:20.415  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 11:37:28.152  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 11:42:47.398  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 11:42:47.557  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 11:42:48.031  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 11:42:58.845  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 11:42:59.031  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 11:43:09.868  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 11:43:10.201  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 11:43:16.175  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 11:43:28.977  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:43:33.655  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:43:37.919  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:43:41.346  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:46:55.681  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 11:46:55.797  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 11:46:56.276  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 11:47:03.986  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 11:47:04.119  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 11:47:14.777  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 11:47:15.007  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 11:47:21.360  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 11:47:23.911  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:47:23.953  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:47:23.978  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:47:23.999  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:47:24.021  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:47:24.043  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:47:24.062  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:47:24.082  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:47:24.098  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1629 - STEP - Title not verified in the table
+2023-11-28 11:47:24.572  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 12:27:47.458  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 12:27:47.690  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 12:27:48.217  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 12:27:56.546  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 12:27:56.603  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 12:28:08.149  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 12:28:08.625  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 12:28:16.003  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 12:28:18.289  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:28:18.301  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:28:18.314  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:28:18.330  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:28:18.345  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:28:18.361  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:28:18.379  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:28:18.394  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:28:18.410  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:28:18.427  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:28:18.968  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 12:28:44.593  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 12:28:44.847  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 12:28:45.207  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 12:28:52.067  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 12:28:52.290  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 12:29:03.854  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 12:29:04.322  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 12:29:11.123  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 12:29:56.931  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:30:11.194  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1644 - STEP - Title not verified in the table
+2023-11-28 12:32:10.181  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 12:32:10.421  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 12:32:10.912  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 12:32:18.009  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 12:32:18.114  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 12:32:29.818  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 12:32:30.267  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 12:32:37.419  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 12:37:54.865  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 12:37:55.008  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 12:37:55.391  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 12:38:01.625  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 12:38:01.884  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 12:38:13.167  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 12:38:13.609  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 12:38:20.185  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 12:38:22.643  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1660 - STEP - Title not verified in the table
+2023-11-28 12:38:22.660  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1660 - STEP - Title not verified in the table
+2023-11-28 12:38:22.676  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1660 - STEP - Title not verified in the table
+2023-11-28 12:38:22.691  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1660 - STEP - Title not verified in the table
+2023-11-28 12:38:22.706  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1660 - STEP - Title not verified in the table
+2023-11-28 12:38:22.720  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1660 - STEP - Title not verified in the table
+2023-11-28 12:38:22.736  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1660 - STEP - Title not verified in the table
+2023-11-28 12:38:22.757  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1660 - STEP - Title not verified in the table
+2023-11-28 12:38:22.773  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1660 - STEP - Title not verified in the table
+2023-11-28 12:38:22.790  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1660 - STEP - Title not verified in the table
+2023-11-28 12:38:23.301  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 12:38:55.266  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 12:38:55.519  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 12:38:56.071  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 12:39:02.843  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 12:39:03.053  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 12:39:14.664  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 12:39:15.103  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 12:39:21.586  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 12:42:40.514  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 12:42:40.776  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 12:42:41.295  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 12:42:48.108  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 12:42:48.303  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 12:42:59.830  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 12:43:00.257  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 12:43:07.394  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 12:43:09.807  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1647 - STEP - Title not verified in the table
+2023-11-28 12:43:09.827  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1647 - STEP - Title not verified in the table
+2023-11-28 12:43:09.847  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1647 - STEP - Title not verified in the table
+2023-11-28 12:43:09.867  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1647 - STEP - Title not verified in the table
+2023-11-28 12:43:09.888  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1647 - STEP - Title not verified in the table
+2023-11-28 12:43:09.911  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1647 - STEP - Title not verified in the table
+2023-11-28 12:43:09.930  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1647 - STEP - Title not verified in the table
+2023-11-28 12:43:09.949  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1647 - STEP - Title not verified in the table
+2023-11-28 12:43:09.963  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1647 - STEP - Title not verified in the table
+2023-11-28 12:43:09.976  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1647 - STEP - Title not verified in the table
+2023-11-28 12:43:10.420  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 12:43:40.243  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 12:43:40.596  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 12:43:41.108  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 12:43:47.911  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 12:43:47.992  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 12:43:59.632  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 12:44:00.045  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 12:44:06.599  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 12:45:02.572  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1647 - STEP - Title not verified in the table
+2023-11-28 12:50:09.385  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 12:50:09.623  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 12:50:10.014  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 12:50:16.763  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 12:50:16.865  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 12:50:28.443  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 12:50:28.907  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 12:50:35.459  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 12:53:30.405  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 12:53:30.583  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 12:53:30.992  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 12:53:41.226  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 12:53:42.968  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 12:53:54.432  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 12:53:54.908  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 12:54:01.469  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 12:54:21.194  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 12:54:23.235  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 12:56:06.669  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 12:56:06.897  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 12:56:07.488  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 12:56:14.497  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 12:56:14.708  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 12:56:26.230  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 12:56:26.674  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 12:56:33.894  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 13:01:08.220  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:01:08.444  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:01:08.961  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:01:16.015  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:01:16.221  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:01:27.751  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 13:01:28.167  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:01:35.238  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 13:02:01.206  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:02:03.635  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:02:04.726  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:02:06.464  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :114 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:02:27.886  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1659 - STEP - Title not verified in the table
+2023-11-28 13:05:10.674  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:05:10.920  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:05:11.425  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:05:18.490  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:05:18.671  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:05:30.252  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 13:05:30.674  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:05:37.333  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 13:05:47.134  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:05:49.178  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:05:50.256  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:05:52.291  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :114 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:08:00.598  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:08:00.854  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:08:01.324  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:08:08.424  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:08:09.914  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:08:10.156  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 13:08:13.532  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:08:42.528  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:08:42.799  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:08:43.273  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:08:50.294  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:08:50.505  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:09:02.060  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 13:09:02.502  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:09:09.526  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 13:09:11.747  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:09:12.031  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:09:12.151  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:09:12.411  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :114 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:09:13.027  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:09:13.309  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :114 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:11:52.733  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:11:53.054  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:11:53.540  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:12:00.428  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:12:00.580  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:12:12.144  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 13:12:12.557  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:12:20.734  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 13:12:31.758  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:12:33.893  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:12:34.975  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:12:37.023  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :114 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:15:25.552  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:15:25.855  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:15:26.368  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:15:33.748  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:15:33.830  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:15:45.465  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 13:15:45.892  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:15:53.051  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 13:15:59.718  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:16:01.944  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:16:03.204  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:16:04.993  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :114 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:17:52.558  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:17:52.761  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:17:53.279  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:18:00.130  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:18:00.326  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:18:11.846  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 13:18:12.298  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:18:19.592  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 13:18:21.867  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:18:22.162  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:18:22.273  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:18:22.567  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :114 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:18:23.390  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:18:23.655  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :114 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:19:15.938  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:19:16.139  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:19:16.662  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:19:24.153  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:19:24.434  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:19:34.747  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:19:34.888  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:19:35.351  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:19:36.552  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:19:36.621  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :45 - STEP:verify invalid token messageInvalidTokenMessage
+2023-11-28 13:19:47.429  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:19:47.575  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:19:48.020  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:19:54.536  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:19:54.725  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:20:06.307  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 13:20:06.747  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:20:13.731  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 13:20:15.960  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:20:16.230  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:20:16.339  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:20:16.605  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :114 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:20:17.250  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:20:17.498  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :114 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:20:28.464  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:20:28.728  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:20:29.120  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:20:36.135  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:20:36.196  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:20:47.682  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :67 - STEP:Upload InvalidCsv file successfully UploadFile
+2023-11-28 13:20:48.079  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:20:50.370  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :78 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-28 13:28:55.666  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:28:55.919  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:28:56.375  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:29:03.104  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:29:03.293  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:29:14.855  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:29:15.033  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:29:15.492  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:29:17.178  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:29:17.258  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :45 - STEP:verify invalid token messageInvalidTokenMessage
+2023-11-28 13:29:28.084  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:29:28.346  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:29:28.832  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:29:35.880  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:29:36.102  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:29:47.744  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 13:29:48.156  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:29:55.280  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 13:30:06.719  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:30:08.786  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:30:09.839  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:30:11.859  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:30:53.653  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1650 - STEP -Location not Present in Optimized Route
+2023-11-28 13:31:31.369  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:31:31.707  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:31:32.302  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:31:39.475  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:31:39.563  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:31:50.710  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:31:50.875  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:31:51.346  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:31:52.440  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:31:52.516  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :45 - STEP:verify invalid token messageInvalidTokenMessage
+2023-11-28 13:32:25.288  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:32:25.663  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:32:26.187  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:32:30.485  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:32:32.041  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:32:32.257  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 13:32:35.556  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:33:00.075  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:33:00.655  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 13:33:01.264  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 13:33:09.388  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 13:33:09.455  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 13:33:21.030  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 13:33:21.604  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 13:33:28.572  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 13:33:30.820  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:33:31.069  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:33:31.159  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 13:33:31.416  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 13:33:32.042  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 13:33:32.294  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 14:19:28.150  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:19:28.392  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:19:28.864  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:19:35.477  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:19:35.643  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:19:46.523  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:19:46.791  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:19:47.220  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:19:48.291  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:19:48.351  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :45 - STEP:verify invalid token messageInvalidTokenMessage
+2023-11-28 14:19:58.666  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:19:58.889  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:19:59.326  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:20:06.502  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:20:06.689  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:20:18.489  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 14:20:18.898  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 14:20:25.974  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 14:20:28.206  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:20:28.503  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :98 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 14:20:28.597  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:20:28.850  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :103 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 14:20:29.513  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :98 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 14:20:29.789  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :103 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 14:20:40.470  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:20:40.759  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:20:41.187  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:20:48.229  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:20:48.388  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:20:59.824  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :67 - STEP:Upload InvalidCsv file successfully UploadFile
+2023-11-28 14:21:00.265  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 14:21:02.576  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :78 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-28 14:37:05.203  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:37:05.466  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:37:06.154  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:37:13.018  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:37:13.240  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:37:23.773  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:37:24.063  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:37:24.573  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:37:25.632  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:37:25.705  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :45 - STEP:verify invalid token messageInvalidTokenMessage
+2023-11-28 14:37:59.673  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:37:59.966  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:38:00.521  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:38:06.957  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:38:07.303  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:38:18.850  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 14:38:19.263  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 14:38:26.390  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 14:39:03.303  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:39:06.542  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :99 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 14:39:15.713  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:39:16.219  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :104 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 14:39:45.207  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:39:45.468  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:39:45.955  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:39:53.251  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:39:53.325  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:40:04.966  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 14:40:05.436  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 14:40:12.104  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 14:41:05.404  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:41:07.941  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :99 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 14:41:09.203  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:41:10.696  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :104 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 14:42:57.000  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:42:57.296  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:42:57.814  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:43:04.765  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:43:04.878  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:43:16.470  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 14:43:16.946  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 14:43:23.953  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 14:43:54.486  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:43:56.553  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :99 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 14:43:57.619  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:43:59.605  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :104 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 14:46:48.774  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:46:49.056  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:46:49.551  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:46:56.532  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:46:56.621  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:47:08.286  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 14:47:08.699  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 14:47:15.246  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 14:47:50.381  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:47:52.606  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 14:47:53.660  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:47:55.620  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 14:52:32.655  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:52:32.915  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:52:33.459  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:52:40.152  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:52:40.392  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:52:52.007  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 14:52:52.443  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 14:52:59.071  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 14:53:09.130  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:53:11.550  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 14:53:12.670  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:53:14.411  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 14:53:28.656 FATAL SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :276 - Index 1 out of bounds for length 1
+2023-11-28 14:53:28.717 FATAL SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :277 - null
+2023-11-28 14:54:04.885  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:54:05.121  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:54:05.625  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:54:12.380  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:54:12.604  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:54:24.210  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 14:54:24.637  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 14:54:31.641  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 14:54:33.944  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:54:34.247  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 14:54:34.357  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:54:34.620  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 14:54:34.643 FATAL SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :276 - Index 1 out of bounds for length 1
+2023-11-28 14:54:34.646 FATAL SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :277 - null
+2023-11-28 14:56:05.253  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:56:05.498  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:56:06.000  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:56:12.558  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:56:12.778  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:56:24.392  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 14:56:24.851  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 14:56:31.403  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 14:56:39.557  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:56:41.704  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 14:56:42.782  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:56:44.769  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 14:56:56.699 FATAL SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :276 - Index 1 out of bounds for length 1
+2023-11-28 14:56:56.751 FATAL SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :277 - null
+2023-11-28 14:58:06.249  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:58:06.565  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 14:58:07.054  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 14:58:14.083  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 14:58:14.236  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 14:58:25.908  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 14:58:26.368  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 14:58:33.080  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 14:59:28.101  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:59:30.182  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 14:59:31.320  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 14:59:33.316  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 14:59:45.451 FATAL SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :276 - Index 1 out of bounds for length 1
+2023-11-28 14:59:45.498 FATAL SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :277 - null
+2023-11-28 15:02:41.999  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:02:42.280  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:02:42.808  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:02:49.340  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:02:49.538  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:03:01.238  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 15:03:01.678  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:03:12.119  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 15:04:29.901  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:04:30.136  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:04:30.624  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:04:37.204  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:04:37.457  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:04:49.082  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 15:04:49.522  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:04:56.099  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 15:05:04.643  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:05:06.749  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:05:07.811  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:05:09.800  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:12:18.563  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:12:18.760  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:12:19.299  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:12:28.962  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:12:29.052  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:12:40.604  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 15:12:41.045  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:12:48.673  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 15:12:58.940  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:13:00.988  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:13:02.065  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:13:04.195  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:14:02.958  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:14:03.265  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:14:03.796  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:14:10.216  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:14:10.404  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:14:22.065  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 15:14:22.524  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:14:29.565  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 15:14:31.796  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:14:32.049  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:14:32.146  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:14:32.414  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:14:35.197  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:14:35.449  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:16:42.545  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:16:42.744  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:16:43.198  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:16:49.579  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:16:49.757  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:17:01.298  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 15:17:01.723  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:17:08.798  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 15:17:11.041  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:17:11.296  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:17:11.389  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:17:11.658  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:17:12.288  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:17:12.582  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:22:31.019  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:22:31.307  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:22:31.874  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:22:38.552  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:22:38.739  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:22:50.435  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 15:22:50.844  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:22:57.426  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 15:22:59.679  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:22:59.952  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:23:00.050  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:23:00.328  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:23:03.179  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :100 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:23:03.449  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :105 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:27:27.283  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:27:27.695  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:27:28.117  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:27:34.812  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:27:35.000  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:27:46.700  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :67 - STEP:Upload InvalidCsv file successfully UploadFile
+2023-11-28 15:27:47.124  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:27:49.463  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :78 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-28 15:29:19.497  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:29:19.864  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:29:20.294  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:29:27.227  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:29:27.441  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:29:38.997  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :67 - STEP:Upload InvalidCsv file successfully UploadFile
+2023-11-28 15:29:39.460  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:29:41.782  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :78 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-28 15:31:02.939  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:31:03.247  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:31:03.784  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:31:09.771  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:31:09.949  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:31:21.461  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :67 - STEP:Upload InvalidCsv file successfully UploadFile
+2023-11-28 15:31:21.903  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:31:24.225  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :78 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-28 15:36:33.921  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:36:34.239  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:36:34.701  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:36:41.838  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:36:42.017  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:36:53.510  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :67 - STEP:Upload InvalidCsv file successfully UploadFile
+2023-11-28 15:36:53.921  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:36:56.262  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :78 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-28 15:38:58.703  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:38:58.991  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:38:59.480  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:39:06.024  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:39:06.184  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:39:18.439  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :67 - STEP:Upload InvalidCsv file successfully UploadFile
+2023-11-28 15:39:18.898  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:39:21.271  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :78 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-28 15:39:22.318  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :93 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 15:39:24.640  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:39:24.940  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:39:24.979  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:39:25.239  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:39:26.400  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:39:26.649  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:41:29.607  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:41:29.954  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:41:30.436  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:41:36.939  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:41:37.208  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:41:48.762  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :67 - STEP:Upload InvalidCsv file successfully UploadFile
+2023-11-28 15:41:49.185  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:41:51.539  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :78 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-28 15:41:52.622  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :93 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 15:41:54.853  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:41:55.120  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:41:55.162  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:41:55.418  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:41:55.438  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1657 - STEP -Location not Present in Optimized Route
+2023-11-28 15:41:55.455  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1657 - STEP -Location not Present in Optimized Route
+2023-11-28 15:41:55.475  INFO SVT-PC-155 --- [           main] c.e.U.GenericUtils                       :1657 - STEP -Location not Present in Optimized Route
+2023-11-28 15:41:55.843  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:41:56.126  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:43:13.944  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:43:14.236  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:43:14.694  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:43:21.565  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:43:21.626  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:43:33.213  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :67 - STEP:Upload InvalidCsv file successfully UploadFile
+2023-11-28 15:43:33.640  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:43:35.976  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :78 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-28 15:43:37.031  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :93 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 15:43:39.283  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:43:39.550  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:43:39.600  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:43:39.851  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:43:41.020  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:43:41.301  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:44:32.831  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:44:33.047  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:44:33.558  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:44:40.039  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:44:40.208  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:44:50.759  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:44:50.913  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:44:51.363  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:44:52.597  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:44:52.673  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :45 - STEP:verify invalid token messageInvalidTokenMessage
+2023-11-28 15:45:02.785  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:45:03.048  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:45:03.495  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:45:10.382  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:45:10.535  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:45:22.051  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :60 - STEP:Upload Csv file successfully UploadFile
+2023-11-28 15:45:22.493  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:45:29.415  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :87 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 15:45:31.635  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:45:31.934  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:45:32.023  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:45:32.281  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:45:35.132  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:45:35.399  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:45:46.315  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:45:46.465  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :35 - STEP: Login Page Text displayVerifyLoginText
+2023-11-28 15:45:46.859  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :40 - STEP:Enter Token value successfullyToken
+2023-11-28 15:45:53.234  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :50 - STEP:Successfully click On SignIn ButtonSignIn
+2023-11-28 15:45:53.352  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :55 - STEP:verify welcome screen messageDashboardScreen
+2023-11-28 15:46:04.903  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :67 - STEP:Upload InvalidCsv file successfully UploadFile
+2023-11-28 15:46:05.372  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :72 - STEP:Successfully click On CreateRouteButtonCreateRouteButton
+2023-11-28 15:46:07.780  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :78 - STEP: verify location error message locationAInvalidFileErrorMessage
+2023-11-28 15:46:08.720  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :93 - STEP:Successfully click on NextButtonNextButton
+2023-11-28 15:46:10.925  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:46:11.194  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:46:11.256  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :29 - STEP: Assets Page Locators loaded into memory
+2023-11-28 15:46:11.515  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection
+2023-11-28 15:46:12.590  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :108 - STEP:Successfully click On Map sectionMapSection
+2023-11-28 15:46:12.837  INFO SVT-PC-155 --- [           main] c.e.P.FileUploadPage                     :113 - STEP:Successfully click On clickOnRoutePlannerSectionclickOnRoutePlannerSection

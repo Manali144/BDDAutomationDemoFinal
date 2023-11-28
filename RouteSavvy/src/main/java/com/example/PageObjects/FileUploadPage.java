@@ -86,24 +86,31 @@ public class FileUploadPage extends GenericUtils {
 		clickOnElement(locators.getKey("clickOnCloseIcon"));
 		log.info("STEP:Successfully click on NextButton" + "NextButton");
 	}
+	
+	public void clickOnnextButton() {
+		clickOnElement(locators.getKey("NextButton"));
+		clickOnElement(locators.getKey("NextButton"));
+		log.info("STEP:Successfully click on NextButton" + "NextButton");
+	}
+	
+	
+	
 
 	public void verifyAddedlocation() {
-//		verifyText(locators.getKey("CustomerALocation"), "Customer A");
-//		log.info("STEP: verify Added locationA" + "CustomerALocation");
-//		
-//		verifyText(locators.getKey("CustomerGLocation"), "Customer F");
-//		log.info("STEP: verify added locationB" + "CustomerBLocation");
 
-		WebElement element = getDriver().findElement(By.xpath("//div[@id='route-stops']"));
+		verifyRouteData();
 
-		System.out.println("Optimized route display : " + element.getText());
-
-//			log.info("STEP:Optimized route display : " + element.getText());
 	}
 
 	public void clickOnMapSection() {
 		clickOnElement(locators.getKey("MapSection"));
+
 		log.info("STEP:Successfully click On Map section" + "MapSection");
+	}
+
+	public void clickInRoutePlannerSection() {
+		clickOnElement(locators.getKey("clickOnRoutePlannerSection"));
+		log.info("STEP:Successfully click On clickOnRoutePlannerSection" + "clickOnRoutePlannerSection");
 	}
 
 	public void enterLocation(String AddLocation) {
@@ -123,9 +130,12 @@ public class FileUploadPage extends GenericUtils {
 
 	public void verifyUploadFileLocation() {
 		wait(5000);
-		WebElement element = getDriver().findElement(By.xpath("//div[@id='locations-locations']"));
 
-		System.out.println("Upload File location display : " + element.getText());
+		verifyOptimizedRouteData();
+
+//		WebElement element = getDriver().findElement(By.xpath("//div[@id='locations-locations']"));
+//
+//		System.out.println("Upload File location display : " + element.getText());
 
 //		log.info("STEP:Upload File location display :" +  element.getText());
 	}

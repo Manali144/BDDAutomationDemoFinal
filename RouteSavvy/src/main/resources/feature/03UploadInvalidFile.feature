@@ -9,16 +9,11 @@ Scenario Outline: Verify user is successfully upload location file
   Then User upload  invalid location csv file
   Then User click on Create Route button
   Then verify invalid file error message
-  #Then User click on Next button
-  #Then verify that added location display on route listing screen
-  #Then User click on Map section
-  #Then User verify upload file location
+  Then User click on popup next button
+  Then verify that added location display on route listing screen
+  Then User click on Map section
 
- 
-  
-  
-  
    Examples: 
     | token | 
-    |  60467f1b79 |
+    | 60467f1b79 |
       

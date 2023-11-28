@@ -10,11 +10,15 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
+
+import com.example.PageObjects.FileUploadPage;
 
 import app.constants.ApplicationConstants;
 import app.constants.FilePaths;
@@ -49,7 +53,7 @@ public class GenericUtils {
 	public static WebDriver driver2;
 	public static ThreadLocal<WebDriver> driverThread = new ThreadLocal<>();
 	public static ThreadLocal<WebDriverWait> waitThread = new ThreadLocal<>();
-
+	PropertyFileOperations locators;
 	static Logger log = LogManager.getLogger(GenericUtils.class);
 	// Logger log = Logger.getLogger("test");
 	// PropertyConfigurator.configure(System.getProperty("user.dir") +
@@ -78,6 +82,26 @@ public class GenericUtils {
 			ChromeOptions options = new ChromeOptions();
 			options.setExperimentalOption("prefs", prefs);
 			driverThread.set(new ChromeDriver(options));
+			break;
+		default:
+			break;
+		}
+		getDriver().manage().window().maximize();
+		getDriver().get(url);
+		log.debug("STEP: Explicite wait set on WebDriver " + ApplicationConstants.EXP_WAIT);
+		waitThread.set(new WebDriverWait(getDriver(), ApplicationConstants.EXP_WAIT));
+	}
+
+	public void initBrowser1(String browserName, String url) {
+		log.debug("STEP: " + browserName + " browser launched and load " + url + " in browser");
+		switch (browserName.toLowerCase()) {
+		case "firefox":
+			WebDriverManager.firefoxdriver().setup();
+			Map<String, Object> prefs = new HashMap<String, Object>();
+			prefs.put("profile.default_content_setting_values.notifications", 2);
+			FirefoxOptions options = new FirefoxOptions();
+//			((ChromiumOptions<ChromeOptions>) options1).setExperimentalOption("prefs1", prefs1);
+			driverThread.set(new FirefoxDriver(options));
 			break;
 		default:
 			break;
@@ -306,7 +330,7 @@ public class GenericUtils {
 		}
 		return null;
 	}
-	
+
 	private By getListElements(String locator) {
 		String locatorType = getLocatorType(locator);
 		String locatorValue = getLocatorValue(locator);
@@ -326,7 +350,7 @@ public class GenericUtils {
 			return By.linkText(locatorValue);
 		case "partialLinkText":
 			return By.partialLinkText(locatorValue);
-	
+
 		}
 		return null;
 	}
@@ -580,7 +604,7 @@ public class GenericUtils {
 		try {
 
 			actions.sendKeys(Keys.DOWN).build().perform();
-			//actions.sendKeys(Keys.DOWN).build().perform();
+			// actions.sendKeys(Keys.DOWN).build().perform();
 			actions.sendKeys(Keys.ENTER).build().perform();
 
 		} catch (Exception e) {
@@ -889,68 +913,61 @@ public class GenericUtils {
 	// }
 
 	// }
-	
-	
-	public void Csvuploading(String locator)
-	{
+
+	public void Csvuploading(String locator) {
 		String strPath = "";
 		log.debug("uploading Document...");
 		try {
-		strPath = FilePaths.CSV_FOLDER_PATH;
-		System.out.println("path:" + strPath);
-		WebElement element = getElement(locator);
-		element.click();
-		wait(3000);
-		StringSelection ss = new StringSelection(FilePaths.CSV_FOLDER_PATH);
-		Toolkit.getDefaultToolkit().getSystemClipboard().setContents(ss, null);
-		Robot robot = new Robot();
-		robot.delay(250);
-		robot.keyPress(KeyEvent.VK_CONTROL);
-		robot.keyPress(KeyEvent.VK_V);
-		robot.keyRelease(KeyEvent.VK_V);
-		robot.keyRelease(KeyEvent.VK_CONTROL);
-		robot.keyPress(KeyEvent.VK_ENTER);
-		robot.keyRelease(KeyEvent.VK_ENTER);
-		robot.keyRelease(KeyEvent.VK_ENTER);
-		wait(3000);
-		robot.delay(4000);
-		}
-		catch (Exception e)
-		{
-		System.out.println(" - Getting error while document uploading" + e.getMessage());
+			strPath = FilePaths.CSV_FOLDER_PATH;
+			System.out.println("path:" + strPath);
+			WebElement element = getElement(locator);
+			element.click();
+			wait(3000);
+			StringSelection ss = new StringSelection(FilePaths.CSV_FOLDER_PATH);
+			Toolkit.getDefaultToolkit().getSystemClipboard().setContents(ss, null);
+			Robot robot = new Robot();
+			robot.delay(250);
+			robot.keyPress(KeyEvent.VK_CONTROL);
+			robot.keyPress(KeyEvent.VK_V);
+			robot.keyRelease(KeyEvent.VK_V);
+			robot.keyRelease(KeyEvent.VK_CONTROL);
+			robot.keyPress(KeyEvent.VK_ENTER);
+			robot.keyRelease(KeyEvent.VK_ENTER);
+			robot.keyRelease(KeyEvent.VK_ENTER);
+			wait(3000);
+			robot.delay(4000);
+		} catch (Exception e) {
+			System.out.println(" - Getting error while document uploading" + e.getMessage());
 		}
 	}
-	
-	
-	public void InvalidCsvuploading(String locator)
-	{
+
+	public void InvalidCsvuploading(String locator) {
 		String strPath = "";
 		log.debug("uploading Document...");
 		try {
-		strPath = FilePaths.CSV_Invalid_FOLDER_PATH;
-		System.out.println("path:" + strPath);
-		WebElement element = getElement(locator);
-		element.click();
-		wait(3000);
-		StringSelection ss = new StringSelection(FilePaths.CSV_Invalid_FOLDER_PATH);
-		Toolkit.getDefaultToolkit().getSystemClipboard().setContents(ss, null);
-		Robot robot = new Robot();
-		robot.delay(250);
-		robot.keyPress(KeyEvent.VK_CONTROL);
-		robot.keyPress(KeyEvent.VK_V);
-		robot.keyRelease(KeyEvent.VK_V);
-		robot.keyRelease(KeyEvent.VK_CONTROL);
-		robot.keyPress(KeyEvent.VK_ENTER);
-		robot.keyRelease(KeyEvent.VK_ENTER);
-		robot.keyRelease(KeyEvent.VK_ENTER);
-		wait(3000);
-		robot.delay(4000);
-		}
-		catch (Exception e)
-		{
-		System.out.println(" - Getting error while document uploading" + e.getMessage());
+			strPath = FilePaths.CSV_Invalid_FOLDER_PATH;
+			System.out.println("path:" + strPath);
+			WebElement element = getElement(locator);
+			element.click();
+			wait(3000);
+			StringSelection ss = new StringSelection(FilePaths.CSV_Invalid_FOLDER_PATH);
+			Toolkit.getDefaultToolkit().getSystemClipboard().setContents(ss, null);
+			Robot robot = new Robot();
+			robot.delay(250);
+			robot.keyPress(KeyEvent.VK_CONTROL);
+			robot.keyPress(KeyEvent.VK_V);
+			robot.keyRelease(KeyEvent.VK_V);
+			robot.keyRelease(KeyEvent.VK_CONTROL);
+			robot.keyPress(KeyEvent.VK_ENTER);
+			robot.keyRelease(KeyEvent.VK_ENTER);
+			robot.keyRelease(KeyEvent.VK_ENTER);
+			wait(3000);
+			robot.delay(4000);
+		} catch (Exception e) {
+			System.out.println(" - Getting error while document uploading" + e.getMessage());
 		}
 	}
+
 	public void acceptAlerts() {
 		try {
 
@@ -1531,7 +1548,6 @@ public class GenericUtils {
 
 	}
 
-	
 	public String currentDate() {
 
 		try {
@@ -1557,22 +1573,145 @@ public class GenericUtils {
 		return null;
 
 	}
-	
-	
+
 	public void EscKey() {
-        // WebElement element = getElement(locator);
-        Actions a = new Actions(getDriver());
-        a.sendKeys(Keys.ESCAPE).build().perform();
-    }
+		// WebElement element = getElement(locator);
+		Actions a = new Actions(getDriver());
+		a.sendKeys(Keys.ESCAPE).build().perform();
+	}
+
 	public void SpaceKey() {
-        // WebElement element = getElement(locator);
-        Actions a = new Actions(getDriver());
-      
-        a.sendKeys(Keys.SPACE).build().perform();
-    }
-	
-	
+		// WebElement element = getElement(locator);
+		Actions a = new Actions(getDriver());
+
+		a.sendKeys(Keys.SPACE).build().perform();
+	}
+
+	public void verifyOptimizedRouteData() {
+
+		wait(2000);
+
+		List<WebElement> element = getDriver()
+				.findElements(By.xpath("//div[@id='locations-locations']/div/div/div/span/span[5]"));
+
+		for (int i = 0; i < element.size(); i++) {
+
+			System.out.println("Display Route" + element.get(i).getText());
+
+			if (element.get(i).getText().equals(element.get(i).getText())) {
+				System.out.println("Title verified in the table");
+
+				// elements.get(i).click();
+
+			}
+
+			else {
+
+				log.info("STEP - Title not verified in the table"); //
+
+			}
+
+		}
+
+	}
+
+	public void verifyRouteData() {
+
+		wait(2000);
+		
+
+		FileUploadPage fileUploadPage = new FileUploadPage();
+		fileUploadPage.clickOnMapSection();
+
+		List<WebElement> element = getDriver()
+				.findElements(By.xpath("//div[@id='locations-locations']/div/div/div/span/span[5]"));
+
+		for (int i = 0; i < element.size(); i++) {
+
+			System.out.println("Display Uploaded location data:-" + element.get(i).getText());
+
+		}
+
+		FileUploadPage fileUploadPage1 = new FileUploadPage();
+		fileUploadPage1.clickInRoutePlannerSection();
+		
 	
 
+		List<WebElement> elements = getDriver().findElements(By.xpath("//div[@id='route-stops']/div/span[3]"));
+		
+		
 
+		for (int i = 0; i < elements.size(); i++) {
+
+			System.out.println("Display Optimized Route location:" + elements.get(i).getText());
+
+			if (elements.get(i).getText().contains(element.get(i).getText())) {
+				
+           System.out.println("Location Present in Optimized Route");
+           elements.get(i).click();
+           
+			}
+
+			else {
+
+				log.info("STEP -Location not Present in Optimized Route"); //
+
+			}
+
+		}
+
+	}
+	
+	
+	public void VerifyDummyData() {
+
+wait(2000);
+		
+
+		FileUploadPage fileUploadPage = new FileUploadPage();
+		fileUploadPage.clickOnMapSection();
+
+		List<WebElement> element = getDriver()
+				.findElements(By.xpath("//div[@id='locations-locations']/div/div/div/span/span[5]"));
+
+		for (int i = 0; i < element.size(); i++) {
+
+			System.out.println("Display Uploaded location data:-" + element.get(i).getText());
+
+		}
+
+		FileUploadPage fileUploadPage1 = new FileUploadPage();
+		fileUploadPage1.clickInRoutePlannerSection();
+		
+	
+
+		List<WebElement> elements = getDriver().findElements(By.xpath("//div[@id='route-stops']/div/span[3]"));
+		
+		
+
+		for (int i = 0; i < elements.size(); i++) {
+
+			System.out.println("Display Optimized Route location:" + elements.get(i).getText());
+
+			if (elements.get(i).getText().contains(element.get(i).getText())) {
+				
+				
+				System.out.println("Location Present in Optimized Route");
+				
+           
+			}
+
+			else {
+
+				log.info("STEP -Location not Present in Optimized Route"); //
+
+			}
+
+		}
+
+
+	}
+	
+	
+	
 }

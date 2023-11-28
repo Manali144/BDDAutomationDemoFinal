@@ -9,10 +9,12 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions
 
 (
-
-		features = { "classpath:feature/01login.feature", "classpath:feature/02UploadValidFile.feature",
+//
+	features = { "classpath:feature/01login.feature", "classpath:feature/02UploadValidFile.feature",
 				"classpath:feature/03UploadInvalidFile.feature" },
-		// features = "classpath:feature/042AddRemoveBaseQuestion.feature",
+ //   features = "classpath:feature/02UploadValidFile.feature",
+    
+//    		  features = "classpath:feature/03UploadInvalidFile.feature",
 
 		glue = "com.example.StepDefinitions",
 		// monochrome=false,
